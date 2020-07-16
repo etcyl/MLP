@@ -9,7 +9,6 @@ parameters (such as number of iterations for training the MLP), one is also able
 trainAndPrint() function in order to see how the accuracy changes as a function of the training
 iterations. 
 
-As of now, this MLP is unable to be instantiated as a deep-layer network. In other words I only
-train the network using a NN with three layers: one input layer, one "hidden" layer, and the output
+I train the network using three layers: one input layer, one "hidden" layer, and the output
 layer. The input and hidden layer both contain two neurons, while the output layer contains a single
 neuron, which learns the given function.

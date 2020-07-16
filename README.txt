@@ -10,5 +10,5 @@ trainAndPrint() function in order to see how the accuracy changes as a function 
 iterations. 
 
 I train the network using three layers: one input layer, one "hidden" layer, and the output
-layer. The input and hidden layer both contain two neurons, while the output layer contains a single
-neuron, which learns the given function.
+layer. The input and hidden layer both contain two neurons while the output layer contains a single
+neuron.
